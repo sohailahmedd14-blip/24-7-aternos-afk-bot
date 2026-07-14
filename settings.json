@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "MysticcSMP.exaroton.me",
-    "port": 62794,
+    "ip": "MysticcSMP.aternos.me",
+    "port": 44982,
     "version": "1.20.1",
     "try-creative": false
   },
