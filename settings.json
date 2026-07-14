@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "SoloCloudHosting",
+    "username": "Choco",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "MysticcSMP.aternos.me",
-    "port": 44982,
+    "ip": "MysticcSMP.exaroton.me",
+    "port": 62794,
     "version": "1.20.1",
     "try-creative": false
   },
@@ -32,8 +32,8 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "Subscribe to SoloPlayz!",
-        "Want Cheap Premium MC Server? https://discord.gg/VRMUnDkf95"
+        "I'm a good boy",
+        "I'm pro your noob"
       ]
     },
     "chat-log": true,
